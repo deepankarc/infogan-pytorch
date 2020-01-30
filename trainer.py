@@ -1,4 +1,4 @@
-# authors: Deepankar C., Kaushik VC., Prabhasa K.
+# author: Deepankar C.
 
 import argparse
 import os
