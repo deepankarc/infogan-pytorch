@@ -20,4 +20,4 @@ You can test a newly trained model or one of the pretrained moedls with `python 
 ### References
 
 [1] - [X. Chen, Y. Duan, R. Houthooft, J. Schulman, I. Sutskever, P. Abbeel - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657)  
-[2] - [Deepankar C. - Generation of Images via Attribute Manipulation using Disentangled Representation Learning](https://deepankarc.github.io//2020/02/04/infogan/)
+[2] - [Deepankar C. - Generation of Images via Attribute Manipulation using Disentangled Representation Learning](https://deepankarc.github.io/infogan/)
